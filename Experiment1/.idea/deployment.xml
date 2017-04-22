@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="tomcat.hylstudio.cn">
+    <serverData>
+      <paths name="tomcat.hylstudio.cn">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Experiment1" local="$PROJECT_DIR$/out/artifacts/Experiment1" web="/Experiment1" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

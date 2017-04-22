@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jstl">
+    <archive path="F:/文档/课件/JavaWeb/实验/实验2/lib/jstl.jar" />
+    <archive path="F:/文档/课件/JavaWeb/实验/实验2/lib/standard.jar" />
+    <archive path="F:/文档/课件/JavaWeb/实验/实验2/lib/mysql-connector-java-5.1.34-bin.jar" />
+  </library>
+  <library name="lib">
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/el-api.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/jasper.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/jsp-api.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/catalina.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/ecj-4.4.2.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/jasper-el.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/tomcat-api.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/tomcat-jni.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/catalina-ha.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/servlet-api.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/tomcat-dbcp.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/tomcat-jdbc.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/tomcat-util.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/catalina-ant.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/tomcat-coyote.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/websocket-api.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/tomcat-i18n-es.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/tomcat-i18n-fr.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/tomcat-i18n-ja.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/annotations-api.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/catalina-tribes.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/tomcat-util-scan.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/tomcat-websocket.jar" />
+    <archive path="E:/Program Files/apache-tomcat-8.0.28/lib/catalina-storeconfig.jar" />
+  </library>
+  <library name="bootstrap">
+    <archive path="C:/Users/HYL/.IntelliJIdea2016.2/config/javascript/extLibs/http_static.hylstudio.cn_js_bootstrap.js" />
+  </library>
+  <library name="html5shiv">
+    <archive path="F:/文档/office/16新生入学/新生引导/js/html5shiv.min.js" />
+    <archive path="C:/Users/HYL/.IntelliJIdea2016.2/config/javascript/extLibs/http_cdn.bootcss.com_html5shiv_3.7.2_html5shiv.js" />
+  </library>
+  <library name="jquery">
+    <archive path="F:/文档/office/16新生入学/新生引导/js/jquery.min.js" />
+    <archive path="C:/Users/HYL/.IntelliJIdea2016.2/config/javascript/extLibs/http_static.hylstudio.cn_js_jquery.min.js" />
+  </library>
+  <library name="respond">
+    <archive path="C:/Users/HYL/.IntelliJIdea2016.2/config/javascript/extLibs/http_cdn.bootcss.com_respond.js_1.4.2_respond.js" />
+    <archive path="F:/文档/office/16新生入学/新生引导/js/respond.min.js" />
+  </library>
+</eclipse-userlibraries>
+

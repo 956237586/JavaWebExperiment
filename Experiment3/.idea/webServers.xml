@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a025e759-9cd6-45b4-acc6-921882e641f3" name="tomcat" url="http://tomcat.hylstudio.cn/experiment2">
+        <fileTransfer host="tomcat.hylstudio.cn" port="22" rootFolder="/home/ubuntu/webapp/Experiment2" accessType="SFTP" password="dfc2dfd3dfc6df9bdf93df93df9cdf9adf9ddf98df9bdf8b" username="ubuntu">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
